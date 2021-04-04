@@ -4,7 +4,7 @@ C++ Sample project from assigned schoolwork applying several key C++ and general
 
 ----- Main Principle ------
 
-Assignment was given to me as a challenge to complete involving many layers of inheritance and large scale data processing and management
+Assignment was given to me as a challenge to complete involving many layers of inheritance, large scale data processing and management
 
 
 ----- Concepts covered ------
