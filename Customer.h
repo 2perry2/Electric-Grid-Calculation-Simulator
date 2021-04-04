@@ -1,7 +1,7 @@
+#pragma once
+
 #include "Reading.h"
 
-
-#pragma once
 #ifndef customer
 #define customer
 class Customer {

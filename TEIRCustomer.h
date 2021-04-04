@@ -1,7 +1,7 @@
-#include "Customer.h"
-#include "Reading.h"
 #pragma once
 
+#include "Customer.h"
+#include "Reading.h"
 
 #ifndef TIER
 #define TIER

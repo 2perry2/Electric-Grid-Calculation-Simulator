@@ -1,6 +1,7 @@
+#pragma once
+
 #include "Customer.h"
 
-#pragma once
 
 #ifndef TOUCUSTOMER
 #define TOUCUSTOMER

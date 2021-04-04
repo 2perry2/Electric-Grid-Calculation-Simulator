@@ -1,3 +1,6 @@
+#pragma once
+
+
 #include "TEIRCustomer.h"
 #include "TOUCustomer.h"
 #include <vector>
@@ -5,7 +8,6 @@
 #include <iostream>
 #include <iomanip>
 
-#pragma once
 
 #ifndef Sim
 #define Sim
@@ -13,7 +15,7 @@ class simulation {
 private:
 	//Constants
 	const int customerNum = 1000;
-	//Results variables
+	//Results variables. Note smallestBal variables have extremely high values since if set to zero, zero will always be the lowest value since balance will never be negative
 	double avgConsumTOU, avgConsumTIER, avgBalTOU, avgBalTIER, largestBalTOU = 0, largestBalTIER = 0, SmallestBalTOU = 10000000, smallestBalTIER = 10000000;
 
 	//Variables used for random generation
