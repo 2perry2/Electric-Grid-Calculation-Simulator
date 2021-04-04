@@ -20,6 +20,8 @@ Not Covered but concepts I contain knwowldge of:
 
 - Fstream: Output and reading textfiles 
 - Overriding operators such as ++ and << 
+- Base level Experience in GUI 
+- Database libraries such as SQLite 
 
 
 ----- C++ Libraries Used -----
